@@ -1,0 +1,23 @@
+{
+  "name": "tg-gemini-gf-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.13.0",
+    "@google/generative-ai": "^0.3.1",
+    "dotenv": "^16.0.0",
+    "gtts": "^0.2.1",
+    "lowdb": "^5.1.0",
+    "nanoid": "^4.0.2",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "wav": "^1.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
